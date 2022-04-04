@@ -12,6 +12,6 @@
 
 ![Kevyn stats](https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamior)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula)
 
 
