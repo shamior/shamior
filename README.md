@@ -3,7 +3,7 @@
 - I'm a computer science student in his last year.
 - I'm currently learning more about Web stack in general.
 - I'm looking foward to learn:
--   Mobile apps development
+--Mobile apps development
 -   Security in general
 -   Language Solidity for Smart Contract Development
 
