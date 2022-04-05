@@ -1,11 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-- I'm a computer science student in his last year.
-- I'm currently learning more about Web stack in general.
-- I'm looking foward to learn:
---Mobile apps development
--   Security in general
--   Language Solidity for Smart Contract Development
+<ul>
+    <li> I'm a computer science student in his last year. </li>
+    <li> I'm currently learning more about Web stack in general. </li>
+    <li> I'm looking foward to learn: 
+        <ul>
+            <li>Mobile apps development</li>
+            <li>Security in general</li>
+            <li>Language Solidity for Smart Contract Development</li>
+        </ul>
+    </li>
+</ul>
 
 ## Languages and Technologies that i work on 🧑🏻‍💻
 ***********************************************
