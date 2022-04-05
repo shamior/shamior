@@ -12,12 +12,16 @@
     </li>
 </ul>
 
-## Contact me
+## :email: Contact me 
 <p>
-    <a href="https://t.me/shamior" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" height="60"></a>
+    <a href="https://t.me/shamior"><img src="./img/telegram.png" height="50"></a>
+    &emsp;
+    <a href="https://instagram.com/shamior_"><img src="./img/instagram.png" height="50"></a>
+    &emsp;
+    <a href="https://www.linkedin.com/in/kevyn-menezes-carvalho-a74212210/"><img src="./img/linkedin.png" height="50"></a>
 </p>
 
-## Languages and Technologies 💻
+## 💻 Languages and Technologies 
 <p>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="60">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60">
@@ -29,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="60">    
 </p>
 
-## Stats
+## :bar_chart: Stats
 <p>
     
 [![Kevyn stats](https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula)](https://github.com/shamior/)
