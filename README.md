@@ -12,11 +12,29 @@
     </li>
 </ul>
 
-## Languages and Technologies that i work on 🧑🏻‍💻
-***********************************************
+## Contact me
+<p>
+    <a href="https://t.me/shamior" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" height="60"></a>
+    <a href="" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" height="60"></a>
+</p>
 
-![Kevyn stats](https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula)
+## Languages and Technologies 💻
+<p>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="60">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="60">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="60">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="60">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" height="60">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="60">    
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula)
-
+## Stats
+<p>
+    
+[![Kevyn stats](https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula)](https://github.com/shamior/github-readme-stats)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula&layout=compact)](https://github.com/shamior/github-readme-stats)
+</p>
 
