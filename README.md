@@ -15,7 +15,6 @@
 ## Contact me
 <p>
     <a href="https://t.me/shamior" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" height="60"></a>
-    <a href="" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" height="60"></a>
 </p>
 
 ## Languages and Technologies 💻
@@ -33,8 +32,8 @@
 ## Stats
 <p>
     
-[![Kevyn stats](https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula)](https://github.com/shamior/github-readme-stats)
+[![Kevyn stats](https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula)](https://github.com/shamior/)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula&layout=compact)](https://github.com/shamior/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula&layout=compact)](https://github.com/shamior/)
 </p>
 
