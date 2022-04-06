@@ -15,11 +15,11 @@
 
 ## :email: Contact me
 <p>
-    <a href="https://t.me/shamior"><img src="./img/telegram.png" height="50"></a>
+    <a href="https://t.me/shamior"><img src="./img/telegram.png" height="30"></a>
     &emsp;
-    <a href="https://instagram.com/shamior_"><img src="./img/instagram.png" height="50"></a>
+    <a href="https://instagram.com/shamior_"><img src="./img/instagram.png" height="30"></a>
     &emsp;
-    <a href="https://www.linkedin.com/in/kevyn-menezes-carvalho-a74212210/"><img src="./img/linkedin.png" height="50"></a>
+    <a href="https://www.linkedin.com/in/kevyn-menezes-carvalho-a74212210/"><img src="./img/linkedin.png" height="30"></a>
 </p>
 </br>
 
