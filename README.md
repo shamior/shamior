@@ -11,8 +11,9 @@
         </ul>
     </li>
 </ul>
+</br>
 
-## :email: Contact me 
+## :email: Contact me
 <p>
     <a href="https://t.me/shamior"><img src="./img/telegram.png" height="50"></a>
     &emsp;
@@ -20,24 +21,40 @@
     &emsp;
     <a href="https://www.linkedin.com/in/kevyn-menezes-carvalho-a74212210/"><img src="./img/linkedin.png" height="50"></a>
 </p>
+</br>
 
 ## 💻 Languages and Technologies 
 <p>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="60">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="60">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="60">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="60">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" height="60">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="60">    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50">    
 </p>
+</br>
 
 ## :bar_chart: Stats
-<p>
-    
-[![Kevyn stats](https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula)](https://github.com/shamior/)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula&layout=compact)](https://github.com/shamior/)
-</p>
+<details>
+    <summary>General Stats</summary></br>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula" alt="Kevyn Stats">
+    </p>
+</details>
+    <details>
+    <summary>Top Languages</summary></br>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula" alt="Top Langs">
+    </p>
+</details>
+</details>
+    <details>
+    <summary>Coding time</summary></br>
+    <p align="center">
+        <img src="https://wakatime.com/share/@649d7d4b-15d3-488e-a01f-09c023898854/ae885a95-5715-4803-8875-90524b78b263.svg" height="400">
+    </p>
+</details>
 
