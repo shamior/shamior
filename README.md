@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <ul>
     <li> I'm a computer science student in his last year. </li>
@@ -13,17 +13,17 @@
 </ul>
 </br>
 
-## :email: Contact me
+### :email: Contact me
 <p>
-    <a href="https://t.me/shamior"><img src="./img/telegram.png" height="30"></a>
+    <a href="https://t.me/shamior"><img src="./img/telegram.png" height="36"></a>
     &emsp;
-    <a href="https://instagram.com/shamior_"><img src="./img/instagram.png" height="30"></a>
+    <a href="https://instagram.com/shamior_"><img src="./img/instagram.png" height="36"></a>
     &emsp;
-    <a href="https://www.linkedin.com/in/kevyn-menezes-carvalho-a74212210/"><img src="./img/linkedin.png" height="30"></a>
+    <a href="https://www.linkedin.com/in/kevyn-menezes-carvalho-a74212210/"><img src="./img/linkedin.png" height="36"></a>
 </p>
 </br>
 
-## 💻 Languages and Technologies 
+### 💻 Languages and Technologies 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50">
@@ -37,7 +37,7 @@
 </p>
 </br>
 
-## :bar_chart: Stats
+### :bar_chart: Stats
 <details>
     <summary>General Stats</summary></br>
     <p align="center">
