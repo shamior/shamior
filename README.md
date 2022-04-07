@@ -44,17 +44,22 @@
         <img src="https://github-readme-stats.vercel.app/api?username=shamior&show_icons=true&theme=dracula" alt="Kevyn Stats">
     </p>
 </details>
-    <details>
+
+<details>
     <summary>Top Languages</summary></br>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula" alt="Top Langs">
     </p>
 </details>
-</details>
-    <details>
+
+<details>
     <summary>Coding time</summary></br>
     <p align="center">
         <img src="https://wakatime.com/share/@649d7d4b-15d3-488e-a01f-09c023898854/ae885a95-5715-4803-8875-90524b78b263.svg" height="400">
+    </p>
+    <p>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
     </p>
 </details>
 
