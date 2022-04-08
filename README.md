@@ -54,10 +54,7 @@
 
 <details>
     <summary>Coding time</summary></br>
-    <p align="center">
-        <img src="https://wakatime.com/share/@649d7d4b-15d3-488e-a01f-09c023898854/ae885a95-5715-4803-8875-90524b78b263.svg" height="400">
-    </p>
-    <p>
+
     <!--START_SECTION:waka-->
 
 ```text
@@ -68,6 +65,6 @@ C        0 secs          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 ```
 
 <!--END_SECTION:waka-->
-    </p>
+
 </details>
 
