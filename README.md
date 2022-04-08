@@ -46,7 +46,7 @@
 </details>
 
 <details>
-    <summary>Top Languages</summary></br>
+    <summary>Top Languages on github</summary></br>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamior&theme=dracula" alt="Top Langs">
     </p>
