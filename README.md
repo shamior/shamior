@@ -53,9 +53,9 @@
 </details>
 
 <details>
-    <summary>Coding time</summary></br>
+    <summary>Coding time over the month</summary></br>
 
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```text
 Total Time: 1 min
