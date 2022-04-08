@@ -59,7 +59,15 @@
     </p>
     <p>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```text
+Total Time: 1 min
+
+Python   1 min           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+C        0 secs          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.00 %
+```
+
+<!--END_SECTION:waka-->
     </p>
 </details>
 
