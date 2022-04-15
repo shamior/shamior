@@ -8,6 +8,7 @@
             <li>Mobile apps development</li>
             <li>Security in general</li>
             <li>Language Solidity for Smart Contract Development</li>
+            <li>More about Rust</li>
         </ul>
     </li>
 </ul>
