@@ -20,7 +20,7 @@
     &emsp;
     <a href="https://instagram.com/shamior_"><img src="./img/instagram.png" height="36"></a>
     &emsp;
-    <a href="https://www.linkedin.com/in/kevyn-menezes-carvalho-a74212210/"><img src="./img/linkedin.png" height="36"></a>
+    <a href="https://www.linkedin.com/in/shamior"><img src="./img/linkedin.png" height="36"></a>
 </p>
 </br>
 
