@@ -59,12 +59,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 11 hrs 1 min
+Total Time: 9 hrs 6 mins
 
-CSS          5 hrs 37 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.33 %
-HTML         3 hrs 56 mins   ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   35.33 %
-JavaScript   1 hr 26 mins    ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.88 %
-Other        7 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.15 %
+CSS          4 hrs 58 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   53.79 %
+HTML         2 hrs 40 mins   ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   28.91 %
+JavaScript   1 hr 26 mins    ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.56 %
+Other        7 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.39 %
 ```
 
 <!--END_SECTION:waka-->
