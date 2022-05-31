@@ -54,7 +54,7 @@
 </details>
 
 <details>
-    <summary>Coding time over the month</summary></br>
+    <summary>Coding time over the week</summary></br>
 
 <!--START_SECTION:waka-->
 
