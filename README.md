@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 56 mins
+Total Time: 2 hrs 53 mins
 
-Rust         1 hr 35 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   52.74 %
-C            1 hr 14 mins    ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   41.18 %
-Other        4 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.37 %
+Rust         1 hr 35 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   53.62 %
+C            1 hr 11 mins    ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   40.21 %
+Other        4 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.41 %
 ```
 
 <!--END_SECTION:waka-->
