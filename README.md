@@ -59,11 +59,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 11 hrs 53 mins
+Total Time: 10 hrs 55 mins
 
-C          9 hrs 47 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   78.42 %
-Python     1 hr 45 mins    ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.10 %
-Other      35 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.74 %
+C          10 hrs 5 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   87.64 %
+Other      35 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.13 %
 ```
 
 <!--END_SECTION:waka-->
