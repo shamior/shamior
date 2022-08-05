@@ -59,10 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 10 hrs 48 mins
+Total Time: 6 hrs 6 mins
 
-C          9 hrs 58 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   87.51 %
-Other      35 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.19 %
+C      5 hrs 2 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   82.38 %
+Dart   1 hr 2 mins     ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.95 %
+Font   2 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.67 %
 ```
 
 <!--END_SECTION:waka-->
