@@ -59,10 +59,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 12 hrs 20 mins
+Total Time: 11 hrs
 
-TypeScript   8 hrs 1 min     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱   59.18 %
-Other        1 hr 13 mins    ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.98 %
+TypeScript   8 hrs 1 min     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   65.67 %
+Other        1 hr 13 mins    ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.97 %
 ```
 
 <!--END_SECTION:waka-->
