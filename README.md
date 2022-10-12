@@ -59,9 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 mins
-
-C   2 mins          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
