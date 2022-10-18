@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 mins
+Total Time: 29 mins
 
-C          9 mins          ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱   50.19 %
-Makefile   8 mins          ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.04 %
-Other      0 secs          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.11 %
+C          21 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   69.70 %
+Makefile   8 mins          ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   26.80 %
+Other      0 secs          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.50 %
 ```
 
 <!--END_SECTION:waka-->
