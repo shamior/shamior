@@ -59,9 +59,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 33 mins
+Total Time: 42 mins
 
-C          33 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   99.92 %
+C          41 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   97.37 %
+Rust       1 min           ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.55 %
 Makefile   0 secs          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.08 %
 ```
 
