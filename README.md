@@ -59,11 +59,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 min
+Total Time: 0 secs
 
-Git Config   1 min           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   81.17 %
-JSON         0 secs          ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.86 %
-HTML         0 secs          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
