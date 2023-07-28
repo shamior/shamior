@@ -59,9 +59,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 mins
+Total Time: 0 secs
 
-Lua   28 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
