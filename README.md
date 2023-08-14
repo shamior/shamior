@@ -59,11 +59,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 38 mins
+Total Time: 9 mins
 
-Lua    28 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   73.86 %
-HTML   9 mins          ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   24.86 %
-CSS    0 secs          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.28 %
+HTML   9 mins          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   95.11 %
+CSS    0 secs          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.89 %
 ```
 
 <!--END_SECTION:waka-->
