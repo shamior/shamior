@@ -59,13 +59,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 18 mins
+Total Time: 15 hrs 7 mins
 
-Python       5 hrs 4 mins    ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   37.84 %
-CSS          2 hrs 52 mins   ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   21.48 %
-HTML         1 hr 54 mins    ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.19 %
-JavaScript   1 hr 53 mins    ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.14 %
-Lua          45 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.68 %
+Python       5 hrs 12 mins   ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.24 %
+CSS          4 hrs 26 mins   ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   29.17 %
+JavaScript   2 hrs 40 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.53 %
+HTML         1 hr 55 mins    ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.62 %
+Java         31 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.43 %
 ```
 
 <!--END_SECTION:waka-->
