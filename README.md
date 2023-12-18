@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 <ul>
-    <li> I'm a computer science student in his last year. </li>
+    <li> I'm computer science bachelor</li>
     <li> I'm currently learning more about Web stack in general. </li>
     <li> I'm looking foward to learn: 
         <ul>
+            <li>More about Rust and Go</li>
             <li>Mobile apps development</li>
             <li>Security in general</li>
-            <li>Language Solidity for Smart Contract Development</li>
-            <li>More about Rust</li>
         </ul>
     </li>
 </ul>
