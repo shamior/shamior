@@ -58,12 +58,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 20 mins
+Total Time: 2 hrs 22 mins
 
-C++          2 hrs 15 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   64.48 %
-Lua          57 mins         ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   27.66 %
-Other        8 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.22 %
-TypeScript   7 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.64 %
+C++          2 hrs 15 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   94.66 %
+TypeScript   7 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.34 %
 ```
 
 <!--END_SECTION:waka-->
