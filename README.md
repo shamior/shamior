@@ -1,28 +1,3 @@
-### Hi there 👋
-
-<ul>
-    <li> I'm computer science bachelor</li>
-    <li> I'm currently learning more about Web stack in general. </li>
-    <li> I'm looking foward to learn: 
-        <ul>
-            <li>More about Rust and Go</li>
-            <li>Mobile apps development</li>
-            <li>Security in general</li>
-        </ul>
-    </li>
-</ul>
-</br>
-
-### :email: Contact me
-<p>
-    <a href="https://t.me/shamior"><img src="./img/telegram.png" height="36"></a>
-    &emsp;
-    <a href="https://instagram.com/shamior_"><img src="./img/instagram.png" height="36"></a>
-    &emsp;
-    <a href="https://www.linkedin.com/in/shamior"><img src="./img/linkedin.png" height="36"></a>
-</p>
-</br>
-
 ### 💻 Languages and Technologies 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="50">
