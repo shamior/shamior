@@ -3,12 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 24 mins
+Total Time: 8 hrs 7 mins
 
-TypeScript     8 hrs 17 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   98.57 %
-jsonc          3 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.69 %
-JavaScript     3 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.66 %
-shell script   0 secs          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.08 %
+TypeScript   8 hrs 6 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   99.77 %
+jsonc        1 min           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.23 %
 ```
 
 <!--END_SECTION:waka-->
