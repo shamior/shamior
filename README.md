@@ -3,10 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 mins
+Total Time: 1 hr 31 mins
 
-TypeScript   32 mins               ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   96.99 %
-Markdown     1 min                 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.01 %
+TypeScript   40 mins               ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   40.65 %
+JSON         34 mins               ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.85 %
+Prisma       14 mins               ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.56 %
+Other        8 mins                ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.77 %
+Markdown     1 min                 ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.01 %
 ```
 
 <!--END_SECTION:waka-->
