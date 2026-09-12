@@ -3,10 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 mins
+Total Time: 0 secs
 
-Text    2 mins                ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   99.30 %
-Astro   0 secs                ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
